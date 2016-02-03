@@ -1,4 +1,4 @@
-#Habilitando ramais com senha
+#Habilitando ramais com senha.
 
 ##By:Israel Azevvedo
 
